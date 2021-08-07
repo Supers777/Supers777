@@ -9,6 +9,12 @@
 
 - 💻 I'm working on now: **Advanced Cheat Detector, Manual Transmission, Interiors and Los Santos Exterior.**
 
+- 💾 I will publish all my projects on github.
+
+- 📦 I can make a fivem server for you.
+
+- 💸 Pirce list:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Supers#1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Supers#1609" height="30" width="40" /></a>
