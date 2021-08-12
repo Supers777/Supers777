@@ -3,8 +3,6 @@
 
 - 👀 I’m interested in: **Professional Bike Downhill, Fivem Developer, Muscle Cars.**
 
-- 📫 How to reach me: **Supers777#1609 on discord.**
-
 - 🌱 I’m currently learning: **C++**
 
 - 💻 I'm working on now: **Advanced Cheat Detector, Manual Transmission, Interiors and Los Santos Exterior.**
